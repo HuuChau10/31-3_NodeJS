@@ -1,2 +1,2 @@
 # NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+# Hoàng Lê Hữu Châu - 2180608776
